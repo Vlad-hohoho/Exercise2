@@ -1,6 +1,6 @@
 <script>
   var v, d, box[100], co =1, j, i, m, q, z, bb, ff;
-  console.log(" âåä³òü ÷èñëî \n");
+  console.log("Please, enter a integer number \n");
   d = promt(,0);
   v=d;
   for (i = 0; i < co;)
