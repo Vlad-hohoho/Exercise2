@@ -1,6 +1,6 @@
-<scripte>
+<script>
   var v, d, box[100], co =1, j, i, m, q, z, bb, ff;
-  document.print(" âåä³òü ÷èñëî \n");
+  console.log(" âåä³òü ÷èñëî \n");
   d = promt(,0);
   v=d;
   for (i = 0; i < co;)
@@ -26,7 +26,7 @@ bb*=10;
           if(z!=d){
               alert("false");
           } else { 
-              atert('true');
+              alert("true");
           }
       }
-</scripte>
+</script>
